@@ -1,2 +1,2 @@
-# ADHD-Planner
+# Neuro-Divergent-Planner
 Planner for NDs
